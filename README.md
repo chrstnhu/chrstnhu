@@ -21,7 +21,7 @@
 ---
 
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZjZmkzaWlva2FsNXMzdTRjMGVvZ3dzNG1sZmpkMWtpOXlncWY1YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0mUTv7Yu0TFn0SGSN2/giphy.gif" width="30px" height="30px"> Frameworks / Libraries
+## ⚙️ Frameworks / Libraries
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,tailwind" />
@@ -39,7 +39,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm0zN3k0Y2Q3bHBidGZpcWlqczU0ODI1b3BhZnVha3A0eWN3N21oeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/GTSGV28z8QtjYpXolq/giphy.gif" width="30px" height="30px"> Tools
+## 🛠️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,vscode,blender,codepen" />
