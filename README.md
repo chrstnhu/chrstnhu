@@ -1,15 +1,16 @@
-## Hi there 👋
-
 
 <div align="center">
    <h3>
-     Hi, there 👋
+      <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" height="30px"></img>
+     Hi, there
    </h3>
   <a href="https://42cv.dev">
     <img src="https://42cv.dev/api/badge/cmobjawuf00000ko9pa61bgoh/stats?cursusId=21&coalitionId=47" alt="chrhu's 42 stats" />
   </a>
 </p>
 
+<!-- Icon : https://github.com/tandpfun/skill-icons#readme-->
+<!-- ## <img src="" width="40px" height="40px"> -->
 ## 💻 Languages
 
 <p align="center">
