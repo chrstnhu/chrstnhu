@@ -1,16 +1,19 @@
 
 <div align="center">
-   <h3>
-      <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" height="30px"></img>
-     Hi, there
-   </h3>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Baumans&size=26&pause=1000&center=true&width=500&lines=42+student+%7C+Learning+by+building;Curious%2C+always+coding%2C+always+learning." alt="Typing SVG" />
+   </a>
+</div>
+
+<div align="center">
   <a href="https://42cv.dev">
     <img src="https://42cv.dev/api/badge/cmobjawuf00000ko9pa61bgoh/stats?cursusId=21&coalitionId=47" alt="chrhu's 42 stats" />
   </a>
-</p>
-
+<div>
+   
 <!-- Icon : https://github.com/tandpfun/skill-icons#readme-->
 <!-- ## <img src="" width="30px" height="30px"> -->
+---
+
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhlbGJxc285a3pyazIza3Ftd3A4Z2Zkb2hmd2loeXIzdWtmd3hsdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px" height="30px"> Languages
 <p align="center">
   <a href="https://skillicons.dev">
